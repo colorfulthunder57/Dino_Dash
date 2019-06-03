@@ -16,6 +16,7 @@ Dino Dash follows the life of the dinosaur traveling the world and later... ANOT
 ### Levels
         -The game has a total of 4 levels with varying degrees of difficulty.
         - The first level is a forest level.
+        ![screenshot](https://raw.githubusercontent.com/colorfulthunder57/Dino_Dash/master/level1_screenshot.PNG)
                 -To complete this level the player will have to the reach the giant bush on the far side of the game.
         -The second level is a tropical level.
                 -To advance to the next level one would have to get to the crate on the far side of the game.
