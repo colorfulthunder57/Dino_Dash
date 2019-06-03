@@ -3,6 +3,7 @@
 ## The Game
 
 Dino Dash follows the life of the dinosaur traveling the world and later... ANOTHER PLANET!!! Its not so simple though. Be aware of creatures and even aliens throughout the game!
+-[LINK](https://www.google.com "Google's Homepage")
 
 
 
