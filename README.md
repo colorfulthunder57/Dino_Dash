@@ -37,6 +37,7 @@ Dino Dash follows the life of the dinosaur traveling the world and later... ANOT
 -If a player is hit by any other moving characters in the game one heart will be taken away.
 -Once all three lives are taken the player would have lost the game.
 -Hearts are shown in the upper left hand corner.
+-Enemies can NOT be killed unless they fall off the edge
 
 
 ### Points
