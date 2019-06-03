@@ -27,52 +27,52 @@ Dino Dash follows the life of the dinosaur traveling the world and later... ANOT
         -Levels are shown in the upper left hand corner.
 
 ### Controls
--The left arrow keys moves the player left while the right arrow key moves the player to the right.
--The space bar allows for jumping.
--Traveling off the ground or off the platform will result in death of character.
+        -The left arrow keys moves the player left while the right arrow key moves the player to the right.
+        -The space bar allows for jumping.
+        -Traveling off the ground or off the platform will result in death of character.
 
 
 ### Lives
--The player has a total of three hearts("H:").
--The hearts will not reset at any point in the game.
--If a player is hit by any other moving characters in the game one heart will be taken away.
--Once all three lives are taken the player would have lost the game.
--Hearts are shown in the upper left hand corner.
--Enemies can NOT be killed unless they fall off the edge
+        -The player has a total of three hearts("H:").
+        -The hearts will not reset at any point in the game.
+        -If a player is hit by any other moving characters in the game one heart will be taken away.
+        -Once all three lives are taken the player would have lost the game.
+        -Hearts are shown in the upper left hand corner.
+        -Enemies can NOT be killed unless they fall off the edge
 
 
 ### Points
--In Dino Dash, points are earned by collecting mushrooms and cherries.
--Mushrooms are worth 10 points while cherries are worth 20.
--Points are shown in the upper right hand corner.
+        -In Dino Dash, points are earned by collecting mushrooms and cherries.
+        -Mushrooms are worth 10 points while cherries are worth 20.
+        -Points are shown in the upper right hand corner.
 
 
 ### End
--If the player reaches the end of level 4 with at least one life they will have one the game.
--If the player has lost all lives or failed to reach level four they would have lost the game.
+        -If the player reaches the end of level 4 with at least one life they will have one the game.
+        -If the player has lost all lives or failed to reach level four they would have lost the game.
 
 
 ### Credits
 Images
-https://www.gameart2d.com/free-dino-sprites.html(Character)
-https://www.gameart2d.com/free-platformer-game-tileset.html (Backgrounds, Platforms, Items)
-https://kenney.nl/assets/jumper-pack(enemies)
-https://kenney.nl/assets/platformer-art-deluxe (space enemies)
+        https://www.gameart2d.com/free-dino-sprites.html(Character)
+        https://www.gameart2d.com/free-platformer-game-tileset.html (Backgrounds, Platforms, Items)
+        https://kenney.nl/assets/jumper-pack(enemies)
+        https://kenney.nl/assets/platformer-art-deluxe (space enemies)
 
 Sounds
-https://freesound.org/people/Lefty_Studios/sounds/369515/ (Jump)
-https://freesound.org/people/ProjectsU012/sounds/341695/ (Gem)
-https://freesound.org/people/CGEffex/sounds/96223/ (roar)
-view-source:https://freesound.org/people/jessepash/sounds/139973/ (yay)
-view-source:https://freesound.org/people/Kastenfrosch/sounds/162457/ (lost)
-view-source:https://freesound.org/people/CGEffex/sounds/95755/ (stomping)
-view-source:https://freesound.org/people/dekstromoramid/sounds/435370/ (action music)
+        https://freesound.org/people/Lefty_Studios/sounds/369515/ (Jump)
+        https://freesound.org/people/ProjectsU012/sounds/341695/ (Gem)
+        https://freesound.org/people/CGEffex/sounds/96223/ (roar)
+        view-source:https://freesound.org/people/jessepash/sounds/139973/ (yay)
+        view-source:https://freesound.org/people/Kastenfrosch/sounds/162457/ (lost)
+        view-source:https://freesound.org/people/CGEffex/sounds/95755/ (stomping)
+        view-source:https://freesound.org/people/dekstromoramid/sounds/435370/ (action music)
 
 
 Fonts
-https://www.1001fonts.com/cheri-font.html (Cheri Font Family)
-https://www.1001freefonts.com/rock-stone-fonts.php(Caveman - Fontalicious)
-https://www.1001freefonts.com/rock-stone-fonts.php(Rock Font - Gaut Fonts)
+        https://www.1001fonts.com/cheri-font.html (Cheri Font Family)
+        https://www.1001freefonts.com/rock-stone-fonts.php(Caveman - Fontalicious)
+        https://www.1001freefonts.com/rock-stone-fonts.php(Rock Font - Gaut Fonts)
 
 
 
