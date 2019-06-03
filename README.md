@@ -3,7 +3,7 @@
 ## The Game
 
 Dino Dash follows the life of the dinosaur traveling the world and later... ANOTHER PLANET!!! Its not so simple though. Be aware of creatures and even aliens throughout the game!
--[LINK](https://github.com/colorfulthunder57/Dino_Dash/releases/download/v1.0/platformer-final.spec "Dino_Dash_Link")
+-[LINK](https://github.com/colorfulthunder57/Dino_Dash/releases/download/v2.0/Dino.Dash.exec "Dino_Dash_Link")
 
 
 
