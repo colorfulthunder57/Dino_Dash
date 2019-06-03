@@ -11,7 +11,7 @@ Dino Dash follows the life of the dinosaur traveling the world and later... ANOT
 
 ### To Start
 - To start the game the player must press the space bar.
-![alt text](Downloads/title_screenshot.png "title screenshot")
+![screenshot](Downloads/title_screenshot.png "title screenshot")
 
 ### Levels
         -The game has a total of 4 levels with varying degrees of difficulty.
