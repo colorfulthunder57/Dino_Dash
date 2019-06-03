@@ -1,0 +1,167 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [48, 9],
+		"start": [1, 5],
+		"goal": [45, 5, 3, 3]
+	},
+
+	"physics": {
+		"gravity": 1.25,
+		"terminal_velocity": 36
+	},
+
+	"music": "assets/sounds/action_1.ogg",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/Sky.png",
+		"image2": "assets/images/backgrounds/Hills_2.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[44.8, 5, "tree"],
+			[44.8, 6, "tree"],
+			[44.8, 7, "tree"],
+			[-1, -2.3, "tree"],
+			[8, 0, "tree"],
+			[35, 0, "tree"],
+			[38.5, 3, "sign"],
+			[2, 1, "crate"]
+		],
+
+		"main": [
+			[0, 8, "dirt_tile_left"],
+			[2, 8, "dirt_tile_middle"],
+			[3, 8, "dirt_tile_right"],
+			[1, 8, "dirt_tile_middle"],
+			[0, 7, "grass_tile_left"],
+			[2, 7, "grass_tile_middle"],
+			[3, 7, "grass_tile_right"],
+			[1, 7, "grass_tile_middle"],
+			[7, 8, "grass_tile_middle"],
+			[8, 8, "grass_tile_middle"],
+			[9, 8, "grass_tile_middle"],
+			[10, 8, "grass_tile_middle"],
+			[11, 8, "grass_tile_middle"],
+			[12, 8, "grass_tile_middle"],
+			[13, 8, "grass_tile_middle"],
+			[14, 8, "grass_tile_middle"],
+			[15, 8, "grass_tile_middle"],
+			[16, 8, "grass_tile_middle"],
+			[17, 8, "grass_tile_middle"],
+			[18, 8, "grass_tile_middle"],
+			[19, 8, "grass_tile_middle"],
+			[20, 8, "grass_tile_middle"],
+			[21, 8, "grass_tile_middle"],
+			[22, 8, "grass_tile_middle"],
+			[23, 8, "grass_tile_middle"],
+			[24, 8, "grass_tile_middle"],
+			[25, 8, "grass_tile_middle"],
+			[26, 8, "grass_tile_middle"],
+			[27, 8, "grass_tile_middle"],
+			[28, 8, "grass_tile_middle"],
+			[29, 8, "grass_tile_middle"],
+			[30, 8, "grass_tile_middle"],
+			[31, 8, "grass_tile_middle"],
+			[32, 8, "grass_tile_middle"],
+			[33, 8, "grass_tile_middle"],
+			[34, 8, "grass_tile_middle"],
+			[35, 8, "grass_tile_middle"],
+			[36, 8, "grass_tile_middle"],
+			[37, 8, "grass_tile_middle"],
+			[38, 8, "grass_tile_middle"],
+			[39, 8, "grass_tile_middle"],
+			[40, 8, "grass_tile_middle"],
+			[41, 8, "grass_tile_middle"],
+			[42, 8, "grass_tile_middle"],
+			[43, 8, "grass_tile_middle"],
+			[44, 8, "grass_tile_middle"],
+			[45, 8, "grass_tile_middle"],
+			[46, 8, "grass_tile_middle"],
+			[47, 8, "grass_tile_right"],
+
+			[-1, 2, "grass_tile_left"],
+			[0, 2, "grass_tile_middle"],
+			[1, 2, "grass_tile_middle"],
+			[2, 2, "grass_tile_middle"],
+			[3, 2, "grass_tile_right"],
+			[-1, 3, "dirt_platform_left"],
+			[0, 3, "dirt_platform_middle"],
+			[1, 3, "dirt_platform_middle"],
+			[2, 3, "dirt_platform_middle"],
+			[3, 3, "dirt_platform_right"],
+
+			[7, 4, "grass_platform_left"],
+			[8, 4, "grass_platform_middle"],
+			[9, 4, "grass_platform_middle"],
+			[10, 4, "grass_platform_middle"],
+			[11, 4, "grass_platform_right"],
+
+			[15, 5, "grass_platform_left"],
+			[16, 5, "grass_platform_middle"],
+			[17, 5, "grass_platform_right"],
+
+			[21, 5, "grass_tile_middle"],
+			[21, 6, "dirt_tile_middle"],
+			[21, 7, "dirt_tile_middle"],
+			[22, 5, "grass_tile_middle"],
+			[22, 6, "dirt_tile_middle"],
+			[22, 7, "dirt_tile_middle"],
+
+			[28, 6, "grass_platform_left"],
+			[29, 6, "grass_platform_middle"],
+			[30, 6, "grass_platform_middle"],
+			[31, 6, "grass_platform_middle"],
+			[32, 6, "grass_platform_right"],
+
+			[34, 4, "grass_platform_left"],
+			[35, 4, "grass_platform_middle"],
+			[36, 4, "grass_platform_right"],
+
+			[37, 4, "grass_platform_left"],
+			[38, 4, "grass_platform_middle"],
+			[39, 4, "grass_platform_right"],
+
+			[44, 2, "grass_tile_left"],
+			[45, 2, "grass_tile_middle"],
+			[46, 2, "grass_tile_middle"],
+			[47, 2, "grass_tile_middle"],
+			[48, 2, "grass_tile_right"],
+			[44, 3, "dirt_platform_left"],
+			[45, 3, "dirt_platform_middle"],
+			[46, 3, "dirt_platform_middle"],
+			[47, 3, "dirt_platform_middle"],
+			[48, 3, "dirt_platform_right"]
+		],
+
+		"foreground": [
+			[4, 8.3, "water_tile"],
+			[5, 8.3, "water_tile"],
+			[6, 8.3, "water_tile"],
+			[8.5, 3.12, "big_bush"],
+			[11, 7.2, "big_bush"],
+			[12.6, 7.65, "bush"],
+			[19, 7.65, "bush"],
+			[34, 7.65, "bush"]
+		]
+	},
+
+	"items": [
+		[7, 1.72, "Cherry"],
+		[3, 1.72, "Gem"],
+		[21, 4.72, "Gem"],
+		[29, 5.72, "Gem"],
+		[34, 3.72 , "Gem"]
+	],
+
+	"enemies": [
+		[11, 2, "BasicEnemy"],
+		[22, 4, "BasicEnemy"],
+		[0, 1, "PlatformEnemy"],
+		[34, 3, "PlatformEnemy"]
+	]
+}

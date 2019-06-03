@@ -1,0 +1,129 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [48, 9],
+		"start": [1, 5],
+		"goal": [45, 5, 3, 3]
+	},
+
+	"physics": {
+		"gravity": 1,
+		"terminal_velocity": 6
+	},
+
+	"music": "assets/sounds/space.ogg",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/space_bg.png",
+		"image2": "assets/images/backgrounds/space_bg.png",
+		"parallax_speed1": 0.6,
+		"parallax_speed2": 0.3
+	},
+
+	"tiles": {
+		"midground": [
+			[2,5, "sign"]
+		],
+
+		"main": [
+			[0, 6, "space_platform_left"],
+			[1,6, "space_platform_middle"],
+			[2, 6, "space_platform_middle"],
+
+			[4, 8, "space_tile_left"],
+			[5,8, "space_tile_middle"],
+			[6,8, "space_tile_middle"],
+			[7,8, "space_tile_middle"],
+			[8,8, "space_tile_middle"],
+			[9, 8, "space_tile_middle"],
+			[10, 8, "space_tile_middle"],
+			[11,8, "space_tile_middle"],
+			[12,8, "space_tile_middle"],
+			[13,8, "space_tile_middle"],
+			[14,8, "space_tile_middle"],
+			[15, 8, "space_tile_right"],
+
+			[5, 3, "space_platform_left"],
+			[6,3, "space_platform_middle"],
+			[7,3, "space_platform_middle"],
+			[8,3, "space_platform_middle"],
+			[9,3, "space_platform_middle"],
+			[10, 3, "space_platform_middle"],
+
+
+			[17, 8, "space_tile_left"],
+			[18,8, "space_tile_middle"],
+			[19,8, "space_tile_middle"],
+			[20,8, "space_tile_middle"],
+			[21,8, "space_tile_middle"],
+			[22, 8, "space_tile_middle"],
+			[23, 8, "space_tile_middle"],
+			[24,8, "space_tile_middle"],
+			[25,8, "space_tile_middle"],
+			[26,8, "space_tile_middle"],
+			[27,8, "space_tile_middle"],
+			[28, 8, "space_tile_right"],
+
+			[20,7, "space_top_tile"],
+			[20,5, "space_top_tile"],
+			[20, 6, "space_top_tile"],
+
+			[34, 8, "space_tile_left"],
+			[35,8, "space_tile_middle"],
+			[36,8, "space_tile_middle"],
+			[37,8, "space_tile_middle"],
+			[38,8, "space_tile_middle"],
+			[39, 8, "space_tile_middle"],
+			[40, 8, "space_tile_middle"],
+			[41,8, "space_tile_middle"],
+			[42,8, "space_tile_middle"],
+			[43,8, "space_tile_middle"],
+			[44,8, "space_tile_middle"],
+			[45,8, "space_tile_middle"],
+			[46,8, "space_tile_middle"],
+			[47,8, "space_tile_middle"],
+			[48, 8, "space_tile_right"],
+
+			[29, 5, "space_platform_left"],
+			[30,5, "space_platform_middle"],
+
+			[32, 3, "space_platform_left"],
+			[33,3, "space_platform_middle"],
+			[34,3, "space_platform_middle"],
+			[35,3, "space_platform_middle"],
+			[36,3, "space_platform_middle"],
+
+			[39, 5, "space_platform_left"],
+			[40,5, "space_platform_middle"],
+			[41,5, "space_platform_middle"]
+		],
+
+		"foreground": [
+			[4, 7.3, "stone"],
+			[5, 7.3, "stone"],
+			[6, 2.3, "stone"],
+			[9, 2.3, "stump"],
+			[11, 7.3, "stump"],
+			[12.6, 7.3, "stump"],
+			[19, 7.3, "stump"],
+			[34, 7.3, "stump"]
+		]
+	},
+
+	"items": [
+		[8, 2.72, "Gem"],
+		[20, 4.72, "Gem"],
+		[19.5, 2.72, "Cherry"],
+		[29, 4.72, "Gem"],
+		[34, 2.72 , "Gem"]
+	],
+
+	"enemies": [
+		[5, 2, "SpaceEnemy"],
+		[12, 7, "SpaceEnemy"],
+		[33, 2, "SpaceEnemy"],
+		[19, 7, "SpaceEnemy"],
+		[17, 7, "SpaceEnemy"]
+	]
+}
