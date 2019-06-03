@@ -19,10 +19,13 @@ Dino Dash follows the life of the dinosaur traveling the world and later... ANOT
 ![screenshot](https://raw.githubusercontent.com/colorfulthunder57/Dino_Dash/master/level1_screenshot.PNG)
                 -To complete this level the player will have to the reach the giant bush on the far side of the game.
         -The second level is a tropical level.
+![screenshot](https://raw.githubusercontent.com/colorfulthunder57/Dino_Dash/master/level2_screenshot.PNG)
                 -To advance to the next level one would have to get to the crate on the far side of the game.
         -The third level is a desert level.
+![screenshot](https://raw.githubusercontent.com/colorfulthunder57/Dino_Dash/master/level3_screenshot.PNG)
                -This one has a bush at the end of the level, similar to level 1.
         -The fourth and final level is a space level.
+![screenshot](https://raw.githubusercontent.com/colorfulthunder57/Dino_Dash/master/level4_screenshot.PNG)
                -Its important to be carful in the final level since the gravity is very different.
                -Once you reach the end of the level you would have completed all the levels.
         -Levels are shown in the upper left hand corner.
