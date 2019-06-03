@@ -7,7 +7,8 @@ Dino Dash follows the life of the dinosaur traveling the world and later... ANOT
 -[EXECUTABLE LINK](https://drive.google.com/open?id=1PVO2MRB6fuwOOfoNRtzPz86pbMNpB60H)
 
 
--[Link to google drive folder](https://drive.google.com/drive/folders/18sjbl513BQydD5oS-WhFkz_Wy4cFLkdO?usp=sharing)
+-[Drive Folder](https://drive.google.com/drive/folders/18sjbl513BQydD5oS-WhFkz_Wy4cFLkdO?usp=sharing)
+
 
 
 
