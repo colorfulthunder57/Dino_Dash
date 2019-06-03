@@ -27,9 +27,9 @@ Dino Dash follows the life of the dinosaur traveling the world and later... ANOT
         -Levels are shown in the upper left hand corner.
 
 ### Controls
-        -The left arrow keys moves the player left while the right arrow key moves the player to the right.
-        -The space bar allows for jumping.
-        -Traveling off the ground or off the platform will result in death of character.
+                -The left arrow keys moves the player left while the right arrow key moves the player to the right.
+                -The space bar allows for jumping.
+                -Traveling off the ground or off the platform will result in death of character.
 
 
 ### Lives
