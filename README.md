@@ -53,26 +53,26 @@ Dino Dash follows the life of the dinosaur traveling the world and later... ANOT
 
 
 ### Credits
-Images
-        https://www.gameart2d.com/free-dino-sprites.html(Character)
-        https://www.gameart2d.com/free-platformer-game-tileset.html (Backgrounds, Platforms, Items)
-        https://kenney.nl/assets/jumper-pack(enemies)
-        https://kenney.nl/assets/platformer-art-deluxe (space enemies)
+        Images
+                https://www.gameart2d.com/free-dino-sprites.html(Character)
+                https://www.gameart2d.com/free-platformer-game-tileset.html (Backgrounds, Platforms, Items)
+                https://kenney.nl/assets/jumper-pack(enemies)
+                https://kenney.nl/assets/platformer-art-deluxe (space enemies)
 
-Sounds
-        https://freesound.org/people/Lefty_Studios/sounds/369515/ (Jump)
-        https://freesound.org/people/ProjectsU012/sounds/341695/ (Gem)
-        https://freesound.org/people/CGEffex/sounds/96223/ (roar)
-        view-source:https://freesound.org/people/jessepash/sounds/139973/ (yay)
-        view-source:https://freesound.org/people/Kastenfrosch/sounds/162457/ (lost)
-        view-source:https://freesound.org/people/CGEffex/sounds/95755/ (stomping)
-        view-source:https://freesound.org/people/dekstromoramid/sounds/435370/ (action music)
+        Sounds
+                https://freesound.org/people/Lefty_Studios/sounds/369515/ (Jump)
+                https://freesound.org/people/ProjectsU012/sounds/341695/ (Gem)
+                https://freesound.org/people/CGEffex/sounds/96223/ (roar)
+                view-source:https://freesound.org/people/jessepash/sounds/139973/ (yay)
+                view-source:https://freesound.org/people/Kastenfrosch/sounds/162457/ (lost)
+                view-source:https://freesound.org/people/CGEffex/sounds/95755/ (stomping)
+                view-source:https://freesound.org/people/dekstromoramid/sounds/435370/ (action music)
 
 
-Fonts
-        https://www.1001fonts.com/cheri-font.html (Cheri Font Family)
-        https://www.1001freefonts.com/rock-stone-fonts.php(Caveman - Fontalicious)
-        https://www.1001freefonts.com/rock-stone-fonts.php(Rock Font - Gaut Fonts)
+        Fonts
+                https://www.1001fonts.com/cheri-font.html (Cheri Font Family)
+                https://www.1001freefonts.com/rock-stone-fonts.php(Caveman - Fontalicious)
+                https://www.1001freefonts.com/rock-stone-fonts.php(Rock Font - Gaut Fonts)
 
 
 
